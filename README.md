@@ -19,3 +19,4 @@ Se proporciona un api key en el archivo servicioclima.dart en donde se ve como s
 Capturas de pantalla de la app
 ![Pantalla Principal](capturas/captura 1.png)
 ![Pantalla Principal](capturas/captura 2.png)
+#Climatology
